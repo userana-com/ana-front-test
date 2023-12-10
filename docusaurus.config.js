@@ -82,7 +82,6 @@ const config = {
           {to: '/data', label: 'Data', position: 'left'},
           {to: '/helloReact', label: 'Hello', position: 'left'},
           {to: '/community/intro', label: 'Com', position: 'left'},
-          {to: '/community/intro2', label: 'Com2', position: 'left'},
           {
             type: 'localeDropdown',
             position: 'right',
